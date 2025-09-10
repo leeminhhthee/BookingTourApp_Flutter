@@ -88,12 +88,14 @@ lib/
 
 ## Demo
 
-| ![Login](assets/demo/Picture1.png "Login Screen") | ![Signup](assets/demo/Picture4.png "Signup Screen") | ![Login FB](assets/demo/Picture2.png "Login FB Screen") | ![Home](assets/demo/Picture3.png "Home Screen") |
-|----------------|------------------|------------|------------|
-| ![Booking car](assets/demo/Picture5.png "Booking car Screen") | ![Booking car](assets/demo/Picture6.png "Booking car Screen") | ![Favorites](assets/demo/Picture7.png "Favorites screen") | ![Profile](assets/demo/Picture8.png "Profile Screen") |
-|----------------|------------------|------------|------------|
-| ![Notification](assets/demo/Picture9.png "Notification Screen") | ![Search](assets/demo/Picture10.png "Search Screen") | ![List tours](assets/demo/Picture11.png "List tours screen") | ![Gemini AI Chat](assets/demo/Picture12.png "Gemini AI Chat Screen") |
-|----------------|------------------|------------|------------|
-| ![Fantasy trip](assets/demo/Picture13.png "Fantasy trip Screen") | ![History checkout](assets/demo/Picture14.png "History checkout Screen") | ![Booking hotel](assets/demo/Picture15.png "Booking hotel screen") |  |
+| Login Screen | Signup Screen | Login FB Screen | Home Screen |
+| ![](assets/demo/Picture1.png) | ![](assets/demo/Picture4.png) | ![](assets/demo/Picture2.png) | ![](assets/demo/Picture3.png) |
+| Booking Car 1 | Booking Car 2 | Favorites Screen | Profile Screen |
+| ![](assets/demo/Picture5.png) | ![](assets/demo/Picture6.png) | ![](assets/demo/Picture7.png) | ![](assets/demo/Picture8.png) |
+| Notification Screen | Search Screen | List Tours Screen | Gemini AI Chat Screen |
+| ![](assets/demo/Picture9.png) | ![](assets/demo/Picture10.png) | ![](assets/demo/Picture11.png) | ![](assets/demo/Picture12.png) |
+| Fantasy Trip Screen | History Checkout Screen | Booking Hotel Screen |  |
+| ![](assets/demo/Picture13.png) | ![](assets/demo/Picture14.png) | ![](assets/demo/Picture15.png) |  |
+
 
 ---
