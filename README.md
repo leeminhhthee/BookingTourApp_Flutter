@@ -69,12 +69,12 @@ lib/
 
 ### 1.Clone the repository:
 ```bash
-   git clone https://github.com/Vuonggba1403/BookingTourApp_Flutter
+git clone https://github.com/Vuonggba1403/BookingTourApp_Flutter
 ```
 
 ### 2. Install dependencies:
 ```bash
-   flutter pub get
+flutter pub get
 ```
 
 ### 3. Configure Firebase:
@@ -83,7 +83,7 @@ lib/
 
 ### 4. Run the app:
 ```bash
-    flutter run
+flutter run
 ```
 
 ## Demo
