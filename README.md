@@ -89,12 +89,16 @@ lib/
 ## Demo
 
 | Login Screen | Signup Screen | Login FB Screen | Home Screen |
+|--------------|---------------|----------------|------------|
 | ![](assets/demo/Picture1.png) | ![](assets/demo/Picture4.png) | ![](assets/demo/Picture2.png) | ![](assets/demo/Picture3.png) |
 | Booking Car 1 | Booking Car 2 | Favorites Screen | Profile Screen |
+|---------------|---------------|-----------------|----------------|
 | ![](assets/demo/Picture5.png) | ![](assets/demo/Picture6.png) | ![](assets/demo/Picture7.png) | ![](assets/demo/Picture8.png) |
 | Notification Screen | Search Screen | List Tours Screen | Gemini AI Chat Screen |
+|--------------------|---------------|-----------------|----------------------|
 | ![](assets/demo/Picture9.png) | ![](assets/demo/Picture10.png) | ![](assets/demo/Picture11.png) | ![](assets/demo/Picture12.png) |
 | Fantasy Trip Screen | History Checkout Screen | Booking Hotel Screen |  |
+|-------------------|----------------------|--------------------| |
 | ![](assets/demo/Picture13.png) | ![](assets/demo/Picture14.png) | ![](assets/demo/Picture15.png) |  |
 
 
